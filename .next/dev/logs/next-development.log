@@ -1,0 +1,78 @@
+[00:00:08.192] Server  LOG      ✓ Ready in 4.3s
+[00:00:11.330] Server  LOG      ○ Compiling / ...
+[00:00:12.711] Server  WARN     ⚠ Cross origin request detected from 172.21.244.92 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:27.287] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:27.589] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:27.589] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:27.589] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764348433902}
+[00:00:51.247] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:51.451] Browser WARN    Image with src "/images/gliblio-feed.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:51.532] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:51.533] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:51.533] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764348457849}
+[00:04:48.406] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:48.806] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:04:48.806] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:04:48.806] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764348695122}
+[00:05:02.691] Server  LOG      ✓ Compiled in 288ms
+[00:05:07.699] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:07.964] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:05:07.964] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:05:07.964] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764348714238}
+[00:05:07.996] Server  LOG      ✓ Compiled in 262ms
+[00:05:22.914] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:05:23.304] Browser WARN    Image with src "/images/glibify-feed.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:05:23.304] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:05:23.304] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:05:23.304] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764348729609}
+[00:07:57.837] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:58.153] Browser WARN    Image with src "/images/glibify-feed.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:07:58.185] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:07:58.185] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:07:58.185] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764348884493}
+[00:13:22.128] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:13:22.559] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:13:22.559] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:13:22.559] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764349208823}
+[00:14:04.587] Server  LOG      ✓ Compiled in 177ms
+[00:17:09.888] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:10.297] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:17:10.297] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:17:10.297] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764349436550}
+[00:25:23.236] Server  LOG      ✓ Compiled in 319ms
+[00:25:30.700] Server  LOG      ✓ Compiled in 383ms
+[00:25:32.162] Browser WARN    Image with src "http://172.21.244.92:3000/Glibify-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:25:42.299] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:42.811] Browser WARN    Image with src "http://172.21.244.92:3000/Glibify-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:25:42.811] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:25:42.811] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:25:42.811] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764349949032}
+[00:26:15.768] Server  LOG      ✓ Compiled in 215ms
+[00:26:41.621] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:26:42.101] Browser WARN    Image with src "http://172.21.244.92:3000/Glibify-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:26:42.102] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:26:42.102] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:26:42.102] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764350008325}
+[00:31:11.958] Server  LOG      ✓ Compiled in 356ms
+[00:31:17.904] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:18.151] Browser WARN    Image with src "http://172.21.244.92:3000/Glibify-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:18.151] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:31:18.151] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:31:18.152] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764350284463}
+[00:31:25.530] Server  LOG      ✓ Compiled in 253ms
+[00:31:29.006] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:31:29.237] Browser WARN    Image with src "http://172.21.244.92:3000/Glibify-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:31:29.237] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:31:29.237] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:31:29.237] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764350295552}
+[00:32:18.691] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:32:18.997] Browser WARN    Image with src "http://172.21.244.92:3000/Glibify-logo.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:32:18.997] Browser WARN    Image with src "/images/glibify-feeding.jpg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:32:18.997] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:32:18.997] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:32:18.997] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://172.21.244.92:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://172.21.244.92:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.5.0","sv":"0.1.3","ts":1764350345313}
